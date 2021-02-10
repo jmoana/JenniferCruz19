@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,3 +13,4 @@
     <img style= "width: 490px;" src="https://odia.ig.com.br/_midias/jpg/2021/02/01/1200x750/1_pocah-21089949.jpg" alt="">
 </body>
 </html>
+?>
